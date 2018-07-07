@@ -1,0 +1,17 @@
+/*Css file*/
+/* Style applicable to header*/
+header{
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+/*Styles applicable to div*/
+div{
+ width: 33%;
+ height: 500px;
+ background-color: green;
+ text-align: center;
+ margin: 10 10 10 10;
+ padding: 10 10 10 10;
+}
